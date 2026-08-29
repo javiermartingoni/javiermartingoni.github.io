@@ -11,7 +11,7 @@ redirect_from:
 
 ## Short CV
 
-* **Postdoctoral Researcher in Mathematics** at the in  (from December 2026)
+* **Postdoctoral Researcher in Mathematics** at TU Berlin in (from December 2026)
 
 * **PhD in Mathematics** at University of Passau (July 2022 - October 2026)
   * Degree awarded *A*
