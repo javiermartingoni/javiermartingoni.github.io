@@ -22,7 +22,7 @@ repository               : "javiermartingoni/javiermartingoni.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "ProfileGithub.jpeg"
+  avatar           : "ProfileGithub.jpeg"
   name             : "Javier Martín Goñi"
   pronouns         : # example: "she/her"  
   bio              : "Incoming Postdoctoral Researcher at TU Berlin"
@@ -33,12 +33,12 @@ author:
 
   # Academic websites
   arxiv            : # URL
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=B-yzL9oAAAAJ&hl=es"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Javier-Martin-Goni/research"
   scopus           : # URL
 
   # Repositories and software development
