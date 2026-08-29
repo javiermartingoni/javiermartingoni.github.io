@@ -1,13 +1,13 @@
 ---
-title: "Mod-phi convergence for random variables with cyclotomic generating functions"
+title: "Limit theorems for the distance of random points in $l_p^n$-balls"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-08-14-mod-phi-convergence
-date: 2026-08-14
+permalink: /publication/2026-12-LimitTheoremsDistance
+date: 2026-12-30
 venue: 'arXiv preprint'
-authors: 'Jointly with Christoph Thäle'
-paperurl: 'https://arxiv.org/abs/2608.14143'
-citation: 'C. Thäle and P. Tuchel (2026). &quot;Mod-phi convergence for random variables with cyclotomic generating functions.&quot; <i>arXiv preprint</i>. arXiv:2608.14143.'
+authors: 'Jointly with David Alonso-Gutiérrez and Joscha Prochno'
+paperurl: 'https://arxiv.org/abs/2512.24367'
+citation: 'D. Alonso-Gutiérrez, J. Martin Goñi, J. Prochno (2025). &quot;Limit theorems for the distance of random points in $l_p^n$-balls.&quot; <i>arXiv preprint</i>. arXiv:2512.24367.'
 ---
 
 <!-- more -->
