@@ -32,8 +32,8 @@ author:
   email            : "j.martin@unizar.es"
 
   # Academic websites
-  arxiv            : "https://arxiv.org/search/?query=Tuchel%2C+P&searchtype=all&abstracts=show&order=-announced_date_first&size=50"
-  googlescholar    : "https://scholar.google.com/citations?hl=de&user=4u0i3L8AAAAJ"
+  arxiv            : # URL
+  googlescholar    : # URL
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
