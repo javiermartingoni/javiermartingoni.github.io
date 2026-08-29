@@ -3,4 +3,4 @@ Allow: /
 
 # Allow all web crawlers to access all content
 # Point to sitemap for better crawling
-Sitemap: https://philipptuchel.github.io/sitemap.xml 
+Sitemap: https://javiermartingoni.github.io/sitemap.xml 

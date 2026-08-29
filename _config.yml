@@ -116,7 +116,7 @@ og_image                 : "profile.png"  # Open Graph/Twitter default site imag
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : "Person"
-  name                   : "Philipp Tuchel"
+  name                   : "Javier Martín Goñi"
   links: ["https://scholar.google.com/citations?hl=de&user=4u0i3L8AAAAJ", "https://arxiv.org/search/?query=Tuchel%2C+P&searchtype=all&abstracts=show&order=-announced_date_first&size=50"]
 
 

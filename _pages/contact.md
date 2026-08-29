@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Feel free to contact me regarding my research, collaboration opportunities, or any other inquiries.
+Do not hesitate to reach out about my research, potential collaborations, or any general questions.
 
 ### Contact Information
 

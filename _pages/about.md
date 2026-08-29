@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-In , I will start a postdoctoral position in Mathematics at the . Previously, I completed my PhD in Mathematics at Univerisity of Passau under the supervision of . I also earned my Master's degree in Mathematics at University of Zaragoza and worked as a research assistant at the [University of Zaragoza](https://matematicas.unizar.es/). Feel free to explore my [CV](/cv/) and [publications](/publications/) for more details. If you have any questions, please [contact me](/contact/).
+In December, I will start a postdoctoral position in Mathematics at the [Technische Universität Berlin (TU Berlin)](https://www.tu.berlin/). Previously, I completed my PhD in Mathematics at Univerisity of Passau (in cotutelle with University of Zaragoza) under the supervision of Prof. Dr. Joscha Prochno and Prof. Dr. David Alonso Gutiérrez. I also earned my Master's degree in Mathematics at University of Zaragoza and worked as a research assistant at the [University of Zaragoza](https://matematicas.unizar.es/). Feel free to explore my [CV](/cv/) and [publications](/publications/) for more details. If you have any questions, please [contact me](/contact/).
 
 # Research Interests
 
 - Convex geometry
-- Analysis
-- Probability theory
+- Functional and geometric inequalities
+- Asymptotic geometric analysis
+- High-dimensional probability
+- Limit theorems for random geometric structures
+- Lattice-point methods
 
 
 
