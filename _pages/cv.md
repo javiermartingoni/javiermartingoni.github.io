@@ -11,91 +11,47 @@ redirect_from:
 
 ## Short CV
 
-* **Postdoctoral Researcher in Mathematics** at the [TU Berlin](https://www.wias-berlin.de/) in Berlin (from December 2026)
+* **Postdoctoral Researcher in Mathematics** at the in  (from December 2026)
 
-* **PhD in Mathematics** at Ruhr University Bochum (July 2023 - June 2026)
-  * Degree awarded *summa cum laude*
-  * Supervisor: [Prof. Dr. Christoph Thäle](https://sites.google.com/view/christophthaele), Second Supervisor: [Prof. Dr. Joscha Prochno](https://joschaprochno.jimdofree.com/)
+* **PhD in Mathematics** at University of Passau (July 2022 - October 2026)
+  * Degree awarded *A*
+  * Supervisor: Prof. Dr. Joscha Prochno; Second Supervisor: Prof. Dr. David Alonso Gutiérrez
 
-* **M.Sc. in Mathematics** at Ruhr University Bochum, with distinction (2021-2023)
-  * Working Student at [Hahn-Schickard Institute for Applied Research in Artificial Intelligence](https://www.hahn-schickard.de/forschung-entwicklung/kuenstliche-intelligenz) (April 2021 - April 2023)
-  * Minor: Computer Science
+* **M.Sc. in Mathematics** at University of Zaragoza (2020-2021)
+  * A
 
-* **B.Sc. in Mathematics** at Ruhr University Bochum (2018-2021)
+* **B.Sc. in Mathematics** at University of Zaragoza (2026-2020)
 
 ## Honors and Awards
 
-* Master's thesis has been awarded a prize for outstanding master theses at the faculty of mathematics at [RUB](https://math.ruhr-uni-bochum.de/fakultaet/foerderverein/foerderpreise-fuer-studentische-arbeiten/) (Ruhr University Bochum, 2023)
-* Recipient of the [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/home/home_node.html) (German Academic Scholarship) (2021-2023)
+* A
 
 ## Teaching
 
-* Introduction to Probability Theory and Mathematical Statistics (Winter 2025/2026)
-* Linear Algebra and Geometry I (Winter 2024/2025)
-* Problem-Solving Strategies for School and Mathematical Olympiads (Winter 2024/2025)
-* Panorama of Elementary Mathematics (Summer 2024)
-* Introduction to Probability Theory and Mathematical Statistics (Winter 2021/2022)
-* Mathematics I for Geoscientists and SEPM (Winter 2020/2021)
-* Analysis I (Winter 2019/2020)
+* Functional Analysis (Summer 2022/2023)
+* Linear Algebra I (Winter 2025/2026)
 
 ## Talks
 
-* **UA Ruhr Probability Seminar** (Bochum, October 2025) - *Invited*  
+* **ABC** (Zaragoza, 2027) - *Invited*  
 
-* **Doktorand:innentreffen der Stochastik 2025** (Mannheim, August 2025) - *Contributed*  
+* **BDS** (E) - *Contributed*  
 
-* **University of Passau, Research Group Seminar** (May 2025) - *Invited*  
-  Research presentation at Prof. Dr. Joscha Prochno's research group
-
-* **German Probability and Statistic Days (GPSD)** (Dresden, March 2025) - *Contributed*  
-
-* **SPP 2265: 3rd Workshop on Stochastic Geometry and Point Processes** (Osnabrück, November 2024) - *Invited*  
-
-* **Conference on Approximations and Concentration of Measure in High Dimension** (Bielefeld, June 2024) - *Invited*  
-
-* **University of Passau, Research Group Seminar** (October 2023) - *Invited*  
-  Research presentation at Prof. Dr. Joscha Prochno's research group
-
-* **University of Münster, Research Group Seminar** (July 2023) - *Invited*  
-  Research presentation at Prof. Dr. Zakhar Kabluchko's research group
-
-* **DMV-Studierendenkonferenz (Stukon) 2023** (Bremen, August 2023) - *Contributed* 
 
 ## Conference/Workshop Participation
 
-* **Benchmarks in Leipzig**, Max Planck Institute for Mathematics in the Sciences, Leipzig (May 2026)
-* **Artificial Intelligence: Probabilistic Concepts** Spring School, Technical University of Darmstadt (March 2026)
-* **UA Ruhr Probability Seminar**, Bochum (October 2025)
-* **Doktorand:innentreffen der Stochastik 2025**, Mannheim (August 2025)
-* **German Probability and Statistic Days (GPSD)**, University of Dresden (March 2025)
-* **SPP 2265: 3rd Workshop on Stochastic Geometry**, University of Osnabrück (November 2024)
-* **Bernoulli-ISM 11th World Congress**, Ruhr University Bochum (August 2024)
-* **Approximations and Concentration of Measure in High Dimension**, University of Bielefeld (June 2024)
-* **Isoperimetric Inequalities in High-Dimensional Convex Sets** Spring School, Institut Henri Poincaré, Paris (May 2024)
-* **Trimester Program: Synergies Between Modern Probability, Geometry Analysis and Stochastic Geometry**, Hausdorff Institute of Mathematics, University of Bonn
-  * Workshop: Interaction between Probability and Geometry (January, 2024)
-  * Workshop: Asymptotics of (random) convex sets: fluctuations and large deviations (February, 2024)
-* **DMV-Studierendenkonferenz (StuKon)**, University of Bremen (August 2023)
-* **High Dimensional Probability**, Conference Center Bedlewo, Poland (June 2023)
-* **German Probability and Stochastic Days (GPSD)**, University of Duisburg-Essen (March 2023)
+* **BVC**, C, Zaragoza (May 2026)
+* **CDA** C, University of Zaragoza (April 2028)
 
 ## Research Visits
 
-* **University of Passau** (May and June, 2025)
+* **Ruhr University of Bochum** (October, 2025)
+  * Host: Prof. Dr. Christoph Thäle
+
+* **Technical University of Munich** (April to June, 2022)
   * Host: Prof. Dr. Joscha Prochno
 
-* **Technical University of Munich** (November, 2024)
-  * Host: Prof. Dr. Nina Gantert
-
-* **Hausdorff Institute of Mathematics, Bonn** (January and February, 2024)
-  * Trimester Program: Synergies Between Modern Probability, Geometry Analysis and Stochastic Geometry
-
-* **University of Passau** (October, 2023)
-  * Host: Prof. Dr. Joscha Prochno
-
-* **University of Münster** (July, 2023)
-  * Host: Prof. Dr. Zakhar Kabluchko
 
 ## Other activities
 
-* **Evaluation Committee**, Faculty of Mathematics, Ruhr University Bochum
+* **EDD**, E

@@ -9,12 +9,11 @@ Feel free to contact me regarding my research, collaboration opportunities, or a
 
 ### Contact Information
 
-**Email**: [philipp.tuchel@ruhr-uni-bochum.de](mailto:philipp.tuchel@ruhr-uni-bochum.de)
+**Email**: [j.martin@unizar.es](mailto:j.martin@unizar.es)
 
 **Location**:  
-Ruhr University Bochum  
+Universität Passau
 Faculty of Mathematics  
-Universitätsstraße 150  
-Office: IB 2/105  
-44801 Bochum  
+Dr. Hans Kapfinger, 30 
+94032 Passau  
 Germany
