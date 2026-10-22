@@ -14,13 +14,15 @@ redirect_from:
 * **Postdoctoral Researcher in Mathematics** at TU Berlin in (from December 2026)
 
 * **PhD in Mathematics** at University of Passau (July 2022 - October 2026)
-  * Degree awarded *A*
+  * Degree awarded Summa cum laude (1.0)
   * Supervisor: Prof. Dr. Joscha Prochno; Second Supervisor: Prof. Dr. David Alonso Gutiérrez
 
 * **M.Sc. in Mathematics** at University of Zaragoza (2020-2021)
-  * A
+  * Thesis: La constante de isotropía de cuerpos
+convexos y la conjetura del hiperplano
 
 * **B.Sc. in Mathematics** at University of Zaragoza (2026-2020)
+* Thesis: Ceros y factorización de funciones holomorfas
 
 ## Honors and Awards
 
@@ -48,7 +50,7 @@ redirect_from:
 * **Ruhr University of Bochum** (October, 2025)
   * Host: Prof. Dr. Christoph Thäle
 
-* **Technical University of Munich** (April to June, 2022)
+* **University of Passau** (April to June, 2022)
   * Host: Prof. Dr. Joscha Prochno
 
 
