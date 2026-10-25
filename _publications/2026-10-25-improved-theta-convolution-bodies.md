@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-10-25-improved-theta-convolution-bodies
 date: 2026-10-25 # Fecha provisional de la entrada, no de publicación.
-published: false
+published: true
 venue: "Unpublished manuscript"
 citation: "Javier Martín Goñi. &quot;Improved Brunn–Minkowski bounds for θ-convolution bodies.&quot; Unpublished manuscript."
 ---
