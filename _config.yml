@@ -122,9 +122,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-analytics-4" # Enable Google Analytics
+  provider: "custom"
   google:
-    tracking_id          : "PASTE_YOUR_GA4_MEASUREMENT_ID_HERE"
+    tracking_id:
 
 
 # Reading Files
