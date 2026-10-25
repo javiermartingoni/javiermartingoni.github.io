@@ -1,15 +1,23 @@
 ---
-title: "Limit theorems for the distance of random points in $l_p^n$-balls"
+title: "Improved Brunn–Minkowski bounds for θ-convolution bodies"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-12-LimitTheoremsDistance
-date: 2026-12-30
-venue: 'arXiv preprint'
-authors: 'Jointly with David Alonso-Gutiérrez and Joscha Prochno'
-paperurl: 'https://arxiv.org/abs/2512.24367'
-citation: 'D. Alonso-Gutiérrez, J. Martin Goñi, J. Prochno (2025). &quot;Limit theorems for the distance of random points in $l_p^n$-balls.&quot; <i>arXiv preprint</i>. arXiv:2512.24367.'
+permalink: /publication/2026-10-25-improved-theta-convolution-bodies
+date: 2026-10-25 # Fecha provisional de la entrada, no de publicación.
+published: false
+venue: "Unpublished manuscript"
+citation: "Javier Martín Goñi. &quot;Improved Brunn–Minkowski bounds for θ-convolution bodies.&quot; Unpublished manuscript."
 ---
 
 <!-- more -->
 
-We consider a sequence of discrete random variables whose generating functions are polynomials only having roots on the unit circle in the complex plane. For such sequences we prove, under mild assumptions, mod-$\phi$ convergence with explicit rate and limiting function. This allows us to recover, in a unified way, classical central limit theorems as well as finer asymptotic expansions. The general theory is applied to random permutations and random partitions.
+For $n\geq 2$, we study the optimal function $\varphi_n$ in the Brunn–Minkowski inequality for $\theta$-convolution bodies
+
+$$
+|K+_\theta L|^{1/n}\geq
+\varphi_n(\theta)\bigl(|K|^{1/n}+|L|^{1/n}\bigr)
+$$
+
+for any convex bodies $K,L\subset\mathbb{R}^n$. We improve the known lower bound for every $0<\theta<(3/4)^n$ and determine $\varphi_n$ on an interval strictly containing $[(2/3)^n,1]$. For $\theta<1$ in this interval, equality holds if and only if $K$ and $-L$ are translates of the same $n$-dimensional simplex. The proof reduces the geometric problem to a sharp one-dimensional estimate for nonnegative concave functions under a weighted integral constraint.
+
+*Unpublished manuscript. An arXiv link will be added when available.*

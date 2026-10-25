@@ -1,17 +1,15 @@
 ---
-title: "A discrete approach to Zhang’s projection inequality"
+title: "Limit theorems for the distance of random points in ℓ<sub>p</sub><sup>n</sup>-balls"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-ZhangProjectionDiscrete
-date: 2025-10
-venue: 'Canadian Journal of Mathematics'
-authors: 'Jointly  D. Alonso-Gutiérrez and E. Lucas Marín'
-paperurl: 'https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/discrete-approach-to-zhangs-projection-inequality/53287E6D1D42114A0996881A9D2C0363?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark'
-citation: 'Alonso-Gutiérrez D, Lucas Marín E, Martín Goñi J. A discrete approach to Zhang’s projection inequality. Canadian Journal of Mathematics. Published online 2025:1-47. doi:10.4153/S0008414X25101624'
+permalink: /publication/2025-12-30-random-distances
+date: 2025-12-30
+venue: "arXiv preprint"
+authors: "Jointly with David Alonso-Gutiérrez and Joscha Prochno"
+paperurl: "https://arxiv.org/abs/2512.24367"
+citation: "David Alonso-Gutiérrez, Javier Martín Goñi and Joscha Prochno (2025). &quot;Limit theorems for the distance of random points in ℓ<sub>p</sub><sup>n</sup>-balls.&quot; <i>arXiv preprint</i>. arXiv:2512.24367."
 ---
 
 <!-- more -->
 
-This preprint presents the Leipzig Benchmarks, a collection of 100 research-level mathematics questions with known answers. The dataset was compiled between April 1 and May 15, 2026, with much of the work taking place during the three-day workshop *Benchmarks in Leipzig* at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany.
-
-The questions are used to evaluate the mathematical reasoning abilities of several state-of-the-art large language models. The evaluation proceeds in multiple stages, from single attempts to repeated runs and tests with heavy-thinking models. The results show that many benchmark questions can now be solved by current systems, while a small number remain unsolved after the full evaluation pipeline.
+We establish Gaussian limits for suitably normalized Euclidean distances between independent random points in high-dimensional $\ell_p^n$-balls and on their boundaries, for $1 \leq p \leq \infty$. We also present a concise proof of Hammersley's result for the sphere. Furthermore, we complement these central limit theorems with large deviation principles.

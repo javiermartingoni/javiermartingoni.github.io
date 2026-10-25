@@ -1,17 +1,15 @@
 ---
-title: "A discrete approach to Zhang’s projection inequality"
+title: "A discrete approach to Zhang's projection inequality"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-ZhangProjectionDiscrete
-date: 2025-10
-venue: 'Canadian Journal of Mathematics'
-authors: 'Jointly  D. Alonso-Gutiérrez and E. Lucas Marín'
-paperurl: 'https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/discrete-approach-to-zhangs-projection-inequality/53287E6D1D42114A0996881A9D2C0363?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark'
-citation: 'Alonso-Gutiérrez D, Lucas Marín E, Martín Goñi J. A discrete approach to Zhang’s projection inequality. Canadian Journal of Mathematics. Published online 2025:1-47. doi:10.4153/S0008414X25101624'
+permalink: /publication/2025-09-24-zhang-projection-inequality
+date: 2025-09-24
+venue: "Canadian Journal of Mathematics"
+authors: "Jointly with David Alonso-Gutiérrez and Eduardo Lucas Marín"
+paperurl: "https://arxiv.org/abs/2509.14986"
+citation: "David Alonso-Gutiérrez, Eduardo Lucas Marín and Javier Martín Goñi (2025). &quot;A discrete approach to Zhang's projection inequality.&quot; <i>Canadian Journal of Mathematics</i>, First View, 1–47. <a href='https://doi.org/10.4153/S0008414X25101624'>doi:10.4153/S0008414X25101624</a>."
 ---
 
 <!-- more -->
 
-This preprint presents the Leipzig Benchmarks, a collection of 100 research-level mathematics questions with known answers. The dataset was compiled between April 1 and May 15, 2026, with much of the work taking place during the three-day workshop *Benchmarks in Leipzig* at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany.
-
-The questions are used to evaluate the mathematical reasoning abilities of several state-of-the-art large language models. The evaluation proceeds in multiple stages, from single attempts to repeated runs and tests with heavy-thinking models. The results show that many benchmark questions can now be solved by current systems, while a small number remain unsolved after the full evaluation pipeline.
+We give a new proof of an integral inequality of Gardner and Zhang that implies Zhang's projection inequality. Using the same approach, we develop discrete counterparts in which lattice-point counting replaces volume. We treat both the original inequality and an equivalent formulation, and show how their continuous versions can be recovered from the discrete results.

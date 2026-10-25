@@ -1,17 +1,15 @@
 ---
-title: "A discrete approach to Zhang’s projection inequality"
+title: "Brunn–Minkowski Inequality for θ-Convolution Bodies via Ball's Bodies"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-ZhangProjectionDiscrete
-date: 2025-10
-venue: 'Canadian Journal of Mathematics'
-authors: 'Jointly  D. Alonso-Gutiérrez and E. Lucas Marín'
-paperurl: 'https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/discrete-approach-to-zhangs-projection-inequality/53287E6D1D42114A0996881A9D2C0363?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark'
-citation: 'Alonso-Gutiérrez D, Lucas Marín E, Martín Goñi J. A discrete approach to Zhang’s projection inequality. Canadian Journal of Mathematics. Published online 2025:1-47. doi:10.4153/S0008414X25101624'
+permalink: /publication/2024-02-01-theta-convolution-bodies
+date: 2024-02-01 # Fecha de ordenación dentro del año bibliográfico 2024.
+venue: "The Journal of Geometric Analysis"
+authors: "Jointly with David Alonso-Gutiérrez"
+paperurl: "https://arxiv.org/abs/2211.17069"
+citation: "David Alonso-Gutiérrez and Javier Martín Goñi (2024). &quot;Brunn–Minkowski Inequality for θ-Convolution Bodies via Ball's Bodies.&quot; <i>The Journal of Geometric Analysis</i> 34, article 58. <a href='https://doi.org/10.1007/s12220-023-01508-2'>doi:10.1007/s12220-023-01508-2</a>."
 ---
 
 <!-- more -->
 
-This preprint presents the Leipzig Benchmarks, a collection of 100 research-level mathematics questions with known answers. The dataset was compiled between April 1 and May 15, 2026, with much of the work taking place during the three-day workshop *Benchmarks in Leipzig* at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany.
-
-The questions are used to evaluate the mathematical reasoning abilities of several state-of-the-art large language models. The evaluation proceeds in multiple stages, from single attempts to repeated runs and tests with heavy-thinking models. The results show that many benchmark questions can now be solved by current systems, while a small number remain unsolved after the full evaluation pipeline.
+We study the optimal coefficient in a Brunn–Minkowski inequality for $\theta$-convolution bodies. We determine this coefficient in the range $(3/4)^n \leq \theta \leq 1$ and characterize the equality cases. Our approach establishes sharp inclusions relating the Ball bodies of an $\alpha$-concave function to its superlevel sets, providing a link between functional concavity and optimal volume estimates for convolution bodies.

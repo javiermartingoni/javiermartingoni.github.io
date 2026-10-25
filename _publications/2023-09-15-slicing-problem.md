@@ -1,17 +1,14 @@
 ---
-title: "A discrete approach to Zhang’s projection inequality"
+title: "A note on the reduction of the slicing problem to centrally symmetric convex bodies"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-10-ZhangProjectionDiscrete
-date: 2025-10
-venue: 'Canadian Journal of Mathematics'
-authors: 'Jointly  D. Alonso-Gutiérrez and E. Lucas Marín'
-paperurl: 'https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/discrete-approach-to-zhangs-projection-inequality/53287E6D1D42114A0996881A9D2C0363?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark'
-citation: 'Alonso-Gutiérrez D, Lucas Marín E, Martín Goñi J. A discrete approach to Zhang’s projection inequality. Canadian Journal of Mathematics. Published online 2025:1-47. doi:10.4153/S0008414X25101624'
+permalink: /publication/2023-09-15-slicing-problem
+date: 2023-09-15
+venue: "Journal of Mathematical Analysis and Applications"
+paperurl: "https://arxiv.org/abs/2210.09137"
+citation: "Javier Martín Goñi (2023). &quot;A note on the reduction of the slicing problem to centrally symmetric convex bodies.&quot; <i>Journal of Mathematical Analysis and Applications</i> 525(2), 127135. <a href='https://doi.org/10.1016/j.jmaa.2023.127135'>doi:10.1016/j.jmaa.2023.127135</a>."
 ---
 
 <!-- more -->
 
-This preprint presents the Leipzig Benchmarks, a collection of 100 research-level mathematics questions with known answers. The dataset was compiled between April 1 and May 15, 2026, with much of the work taking place during the three-day workshop *Benchmarks in Leipzig* at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany.
-
-The questions are used to evaluate the mathematical reasoning abilities of several state-of-the-art large language models. The evaluation proceeds in multiple stages, from single attempts to repeated runs and tests with heavy-thinking models. The results show that many benchmark questions can now be solved by current systems, while a small number remain unsolved after the full evaluation pipeline.
+We determine the optimal universal constant in Klartag's reduction of the slicing problem to centrally symmetric convex bodies. More precisely, we compare the isotropic constant of a convex body with that of a Ball body associated with its covariogram. The proof exploits the stronger concavity of the covariogram to establish sharp inclusion relations within Ball's family of convex bodies.
