@@ -13,10 +13,10 @@ In December, I will start a postdoctoral position in Mathematics at the [Technis
 # Research Interests
 
 - Convex geometry
-- Functional and geometric inequalities
+- Geometric and functional inequalities
 - Asymptotic geometric analysis
 - High-dimensional probability
-- Limit theorems for random geometric structures
+- Random polytopes and geometric limit theorems
 - Lattice-point methods
 
 
