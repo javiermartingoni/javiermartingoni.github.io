@@ -24,7 +24,7 @@ redirect_from:
   * Thesis: La constante de isotropía de cuerpos
 convexos y la conjetura del hiperplano
 
-* **B.Sc. in Mathematics** at University of Zaragoza (2026-2020)
+* **B.Sc. in Mathematics** at University of Zaragoza (2016-2020)
   * Thesis: Ceros y factorización de funciones holomorfas
   * Erasmus exchange at Université Paris-Est Créteil (September 2019 – January 2020).
 
