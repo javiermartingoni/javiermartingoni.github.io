@@ -17,7 +17,7 @@ redirect_from:
   * Degree awarded Summa cum laude (1.0)
   * Supervisor: Prof. Dr. Joscha Prochno; Second Supervisor: Prof. Dr. David Alonso Gutiérrez
 
-* **Full-time Researcher in Mathematical Analysis** at the University of Zaragoza (April 2021 – April 2022)
+* **Full-time Researcher in Mathematical Analysis** at the University of Zaragoza (April 2021 – July 2022)
   * Research under the supervision of David Alonso Gutiérrez.  
 
 * **M.Sc. in Mathematics** at University of Zaragoza (2020-2021)
